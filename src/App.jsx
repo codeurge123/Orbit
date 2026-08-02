@@ -84,8 +84,11 @@ function App() {
             </span>
           </div>
 
-          <h1 className="mx-auto max-w-4xl text-4xl font-medium leading-[1.02] tracking-normal text-[#292625] sm:text-5xl lg:text-6xl">
-            AI runtime for builders who ship with agents
+          <h1 className="mx-auto max-w-5xl text-4xl font-medium leading-[1.02] tracking-normal text-[#292625] sm:text-5xl lg:text-6xl">
+            Your computer should work for you. 
+            <p>
+            Orbit makes that happen.
+            </p>
           </h1>
 
           <p className="mx-auto mt-6 max-w-2xl text-base leading-7 text-[#756e68]">
